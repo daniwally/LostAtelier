@@ -139,10 +139,10 @@ const DiagnosisSection = () => (
 const ValueSection = () => (
   <AnimatedSection className="py-24 md:py-32 px-6 md:px-12 lg:px-24 relative overflow-hidden">
     {/* Background image */}
-    <div className="absolute inset-0 z-0 opacity-20">
+    <div className="absolute inset-0 z-0 opacity-30">
       <img 
-        src="https://images.unsplash.com/photo-1692216709277-66423615df1b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2MjJ8MHwxfHNlYXJjaHwzfHxsdXh1cnklMjB3b29kZW4lMjBjaGFpciUyMGRhcmslMjBzdHVkaW8lMjBsaWdodGluZyUyMGNpbmVtYXRpY3xlbnwwfHx8fDE3NzQwMTU5ODR8MA&ixlib=rb-4.1.0&q=85"
-        alt="Luxury wooden furniture"
+        src="https://images.pexels.com/photos/5711209/pexels-photo-5711209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        alt="Artisan woodworking workshop"
         className="w-full h-full object-cover"
       />
     </div>
